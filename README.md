@@ -1,12 +1,8 @@
-<h1 align="left">Hey Ho! Let´s Code!</h1>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">Hello, my name is Paulo, but you  can call me Paulo</p>
-
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
