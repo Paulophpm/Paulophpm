@@ -28,9 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/pau/pau/blob/output/snake.svg" alt="Snake animation" />
-
-###
