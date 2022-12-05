@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Olá!, meu nome é Paulo!!, um eterno estudante com o objetivo de aprender sobre mais sobre Ciência de Dados e Machine Learning</p>
+<p align="left">Olá!, meu nome é Paulo!!, um eterno estudante buscando aprender mais sobre Ciência de Dados e Machine Learning com o objetivo de disseminar o tema e utilizar para contribuir com o futuro</p>
 
-
+<p>Hello, my name is Paul!! an eternal student who seeks to learn more about Data Science and Machine Learning with the aim of publicizing the topic and using it to contribute to the future </p>
 
 ###
 
