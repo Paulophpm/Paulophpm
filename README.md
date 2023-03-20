@@ -3,14 +3,8 @@
 </div>  
   
 
-### <div align="center">Olá bem vindo ao meu github!eu me chamo Paulo e uma pessoa apaixonada por tecnologia, Formula 1 e corrida. Estou aprendendo sobre ciência de dados para ajudar conseguir as pessoas a serem mais produtivas. Aqui, você encontrará projetos relacionados a essas áreas, bem como outras iniciativas que me interessam e que estou desenvolvendo atualmente.</div>  
-  
-
-- 🏃 runner in spare time  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-    
+### <div align="center">Olá bem vindo ao meu github! eu me chamo Paulo e uma pessoa apaixonada por tecnologia, Formula 1 e corrida. Estou aprendendo sobre ciência de dados para ajudar conseguir as pessoas a serem mais produtivas. Aqui, você encontrará projetos relacionados a essas áreas, bem como outras iniciativas que me interessam e que estou desenvolvendo atualmente.</div>  
+     
 
 <br/>  
 
