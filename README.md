@@ -1,8 +1,20 @@
-### <div align="Left">Olá bem vindo ao meu github! eu me chamo Paulo e uma pessoa apaixonada por tecnologia, Formula 1 e corrida. Estou aprendendo sobre ciência de dados para ajudar conseguir as pessoas a serem mais produtivas. Aqui, você encontrará projetos relacionados a essas áreas, bem como outras iniciativas que me interessam e que estou desenvolvendo atualmente.</div>  
+### <div align="Center">Olá! bem vindo ao meu GitHub!!</div>
+<div align="Center">Eu me chamo Paulo!! uma pessoa apaixonada por tecnologia, Formula 1 e corrida!</div>
+<div align="Center">Aqui em compartilho alguns dos meus projetos de Data Science.</div> 
+
+<div style="display: inline_block", align="center"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <div>  
+  
+ <br>     
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paulophpm&show_icons=true&count_private=true&hide_border=true" align="center" /></div></br>  
       
 <br/>  
 <div align="center">
-<a href="https://github.com/Paulophpm" target="_blank">
+<a href="https://www.datascienceportfol.io/paulophpm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/paulophpm" target="_blank">
@@ -16,5 +28,3 @@
 </a>  
 </div>  
 <br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paulophpm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
