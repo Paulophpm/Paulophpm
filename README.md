@@ -1,11 +1,12 @@
 ### <div align="Center">Olá! bem vindo ao meu GitHub!!</div>
 <div align="Center">Eu me chamo Paulo!! uma pessoa apaixonada por tecnologia, Formula 1 e corrida!</div>
-<div align="Center">Aqui em compartilho alguns dos meus projetos de Data Science.</div> 
+<div align="Center">Aqui em compartilho alguns dos meus projetos de Data Science</div> 
 
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <div>  
   
