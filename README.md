@@ -1,6 +1,6 @@
-### <div align="Center">Olá! bem vindo ao meu GitHub!!</div>
+## <div align="Center">Olá! bem vindo ao meu GitHub!!</div>
 <div align="Center">Eu me chamo Paulo!! uma pessoa apaixonada por tecnologia, Formula 1 e corrida!</div>
-<div align="Center">Aqui em compartilho alguns dos meus projetos de Data Science</div> 
+<div align="Center">Aqui em compartilho alguns dos meus projetos e estudos na área de Data Science.</div> 
 
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
