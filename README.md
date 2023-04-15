@@ -1,14 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
-
-### <div align="center">Olá bem vindo ao meu github! eu me chamo Paulo e uma pessoa apaixonada por tecnologia, Formula 1 e corrida. Estou aprendendo sobre ciência de dados para ajudar conseguir as pessoas a serem mais produtivas. Aqui, você encontrará projetos relacionados a essas áreas, bem como outras iniciativas que me interessam e que estou desenvolvendo atualmente.</div>  
-     
-
+### <div align="Left">Olá bem vindo ao meu github! eu me chamo Paulo e uma pessoa apaixonada por tecnologia, Formula 1 e corrida. Estou aprendendo sobre ciência de dados para ajudar conseguir as pessoas a serem mais produtivas. Aqui, você encontrará projetos relacionados a essas áreas, bem como outras iniciativas que me interessam e que estou desenvolvendo atualmente.</div>  
+      
 <br/>  
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/Paulophpm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,5 +17,4 @@
 </div>  
 <br/>  
 
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paulophpm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
