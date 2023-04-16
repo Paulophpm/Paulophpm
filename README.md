@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/datascienceportifolio-%2324292e.svg?&style=for-the-badge&logo=logoColor=white alt=datascienceportifol.io style="margin-bottom: 5px;" />
 </a>
 <div align="center">
-<a href=" https://medium.com/@paulomelophpm" target="_blank">
+<a href="https://medium.com/@paulomelophpm" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/paulophpm" target="_blank">
